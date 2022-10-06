@@ -5,3 +5,4 @@ Equipo
 =============
 
 * Hassir Elias Lastre Sierra.
+* Yimmy Leandro Quijano Mira
