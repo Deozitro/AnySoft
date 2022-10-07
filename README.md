@@ -4,8 +4,8 @@
 Equipo
 =============
 
+* Dario Enrique Ortiz Agreda
 * Hassir Elias Lastre Sierra
 * Yimmy Leandro Quijano Mira
-* Dario Enrique Ortiz Agreda
 * José Dario Soto Carrillo
 
