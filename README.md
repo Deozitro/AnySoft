@@ -6,5 +6,6 @@ Equipo
 
 * Hassir Elias Lastre Sierra
 * Yimmy Leandro Quijano Mira
-* José Dario Soto Carrillo
 * Dario Enrique Ortiz Agreda
+* José Dario Soto Carrillo
+
